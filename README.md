@@ -13,8 +13,6 @@ This project analyzes an automobile dataset, focusing on data cleaning and explo
    - Handling missing values, removing duplicates, and transforming data types.
 3. **Exploratory Data Analysis (EDA)**
    - Insights into automobile pricing, fuel types, and horsepower.
-4. **Conclusion**
-   - Summary of findings and potential areas for further analysis.
 
 #### Credits
 This project was completed by **Christen Rao** using the automobile dataset.
